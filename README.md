@@ -4,4 +4,4 @@ Raw server created in rust following [The Book](https://doc.rust-lang.org/book/c
 
 ## TODO
 
-- [] Implement generic return on Worker Pool
+- [ ] Implement generic return on Worker Pool
